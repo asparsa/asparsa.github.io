@@ -3,7 +3,7 @@ I am a Researcher in train at Ohio State University. Before joining OSU, I was a
 *[Google Scholar](https://scholar.google.com/citations?user=DQo2ZekAAAAJ&hl=en&authuser=1)
 
 ## Projects
-MACSio plugins
+IOMetry
 
 Reconfigurable storage architecture
 
