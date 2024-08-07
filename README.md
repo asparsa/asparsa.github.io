@@ -4,6 +4,7 @@ I am a Researcher in train at Ohio State University. Before joining OSU, I was a
 
 ## Projects
 MACSio plugins
+Reconfigurable storage architecture
 
 ## Publication
 A Salimiparsa, H Veisi, MS Moin, "A Comparison between Slimed Network and Pruned Network for Head Pose Estimation", 13th International Conference on Information and Knowledge Technology, 2022
