@@ -4,6 +4,7 @@ I am a Researcher in train at Ohio State University. Before joining OSU, I was a
 
 ## Projects
 MACSio plugins
+
 Reconfigurable storage architecture
 
 ## Publication
